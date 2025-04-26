@@ -8,8 +8,9 @@ Estudante de Desenvolvimento de Sistemas| HTML, CSS, e lógica de programação|
 - Pretendo desenvolver um bom jogo no futuro ou até mesmo ajudar a desenvolver algum!
 
   ### Tecnologias que estou aprendendo
-  ![HTML5]
-  ![CSS3]
+  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ---
 ### Objetivos pro futuro
 - Me tornar um Desenvolvedor de jogos.
