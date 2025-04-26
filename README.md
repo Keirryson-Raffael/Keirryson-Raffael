@@ -6,7 +6,7 @@ Estudante de Desenvolvimento de Sistemas| HTML, CSS, e lógica de programação|
 - Aprendendo o básico de programação mas sempre procurando evoluir.
 - Gosto de passar o tempo jogando, ou escutando música.
 - Pretendo desenvolver um bom jogo no futuro ou até mesmo ajudar a desenvolver algum!
-
+---
   ### Tecnologias que estou aprendendo
   
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
