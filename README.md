@@ -1,14 +1,13 @@
 ### Eae, eu sou o Raffael!
-
 Estudante de Desenvolvimento de Sistemas| HTML, CSS, e lógica de programação| pretendendo entrar no rumo de desenvolvimento de games
 
 <img align="right" height="250" src="https://media.tenor.com/QBgedY7DWkEAAAAM/star-eyes-beautiful.gif"/>
 <img align="right" height="100" src="https://cdn.mos.cms.futurecdn.net/LAHok2YEbBCYRYf9pueG3M-1200-80.jpg"/>
 
 ### Sobre mim:
-- Aprendendo o básico de programação mas sempre procurando evoluir.
-- Gosto de passar o tempo jogando, ou escutando música.
-- Pretendo desenvolver um bom jogo no futuro ou até mesmo ajudar a desenvolver algum!
+- Aprendendo o básico de programação mas sempre procurando evoluir. 😎
+- Gosto de passar o tempo jogando, ou escutando música. 🎵
+- Pretendo desenvolver um bom jogo no futuro ou até mesmo ajudar a desenvolver algum! ⚡
 
   ### Tecnologias que estou aprendendo
   
