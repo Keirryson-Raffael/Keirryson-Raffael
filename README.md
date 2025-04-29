@@ -2,7 +2,7 @@
 
 Estudante de Desenvolvimento de Sistemas| HTML, CSS, e lógica de programação| pretendendo entrar no rumo de desenvolvimento de games.
 
-<**img**/https://www.google.com/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Fpin%2F408842472436776013%2F&psig=AOvVaw2Ux1xzgg2Y11d8xFGc41Z2&ust=1746020026715000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi-mc2t_YwDFQAAAAAdAAAAABAZ>
+![imagem](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Fpin%2F408842472436776013%2F&psig=AOvVaw2Ux1xzgg2Y11d8xFGc41Z2&ust=1746020026715000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi-mc2t_YwDFQAAAAAdAAAAABAZ)
 
 ### Sobre mim:
 - Aprendendo o básico de programação mas sempre procurando evoluir.
