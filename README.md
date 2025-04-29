@@ -2,7 +2,7 @@
 
 Estudante de Desenvolvimento de Sistemas| HTML, CSS, e lógica de programação| pretendendo entrar no rumo de desenvolvimento de games.
 
-![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fr-no71.artstation.com%2Fprojects%2FoO2LEw&psig=AOvVaw2Ux1xzgg2Y11d8xFGc41Z2&ust=1746020026715000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi-mc2t_YwDFQAAAAAdAAAAABAl)
+![img](https://www.google.com/search?q=mega+gengar+&sca_esv=f6861048bb8aaca5&udm=2&biw=1920&bih=953&ei=MtgQaK-3NK3J5OUPspfg0Qw&ved=0ahUKEwivmLi3sP2MAxWtJLkGHbILOMoQ4dUDCBE&uact=5&oq=mega+gengar+&gs_lp=EgNpbWciDG1lZ2EgZ2VuZ2FyIDIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjMFVDqA1iwE3AEeACQAQCYAZMBoAG9BKoBAzAuNLgBA8gBAPgBAZgCCKAC5gTCAgYQABgHGB7CAg0QABiABBixAxhDGIoFwgIEEAAYHsICBhAAGAUYHsICBhAAGAgYHpgDAIgGAZIHAzQuNKAHvxOyBwMwLjS4B9IE&sclient=img#vhid=I14J1RIGzpf3GM&vssid=mosaic)
 
 ### Sobre mim:
 - Aprendendo o básico de programação mas sempre procurando evoluir.
