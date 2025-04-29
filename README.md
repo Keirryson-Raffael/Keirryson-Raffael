@@ -2,7 +2,7 @@
 
 Estudante de Desenvolvimento de Sistemas| HTML, CSS, e lógica de programação| pretendendo entrar no rumo de desenvolvimento de games.
 
-![gif](ABzOT_BYhiZpMrUAF0c9tORwPGlsjfkTCQbVbkeDjnTQtijddBji9NlWFbRgtIhh9CBGrAVc9g7qScOWQqEc2VLWZUvSltbqp7-P26IhRDA8xQJoNNed3Nr96xlGYxntSSRu5b6nTto1-zPH5Blsqu1uXy7wSOkVL_h7q3wMQ9PFUOzmMyCdL2MWgHBAQC5lX17o3FWMT7gYlkVIl3KaK0cD1ZjwYAxXyg&sa=X&ved=2ahUKEwigrcXLrf2MAxWtupUCHUieGywQtKgLegQIERAB&biw=1920&bih=953&dpr=1#vhid=3Pb8G2qc9WS-FM&vssid=mosaic)
+![gif](https://www.google.com/search?sca_esv=f6861048bb8aaca5&q=mega+gengar+gif&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsjfkTCQbVbkeDjnTQtijddBji9NlWFbRgtIhh9CBGrAVc9g7qScOWQqEc2VLWZUvSltbqp7-P26IhRDA8xQJoNNed3Nr96xlGYxntSSRu5b6nTto1-zPH5Blsqu1uXy7wSOkVL_h7q3wMQ9PFUOzmMyCdL2MWgHBAQC5lX17o3FWMT7gYlkVIl3KaK0cD1ZjwYAxXyg&sa=X&ved=2ahUKEwigrcXLrf2MAxWtupUCHUieGywQtKgLegQIERAB&biw=1920&bih=953&dpr=1#vhid=Rkh7JCurrry5eM&vssid=mosaic)
 
 ### Sobre mim:
 - Aprendendo o básico de programação mas sempre procurando evoluir.
